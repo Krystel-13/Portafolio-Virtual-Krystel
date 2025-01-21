@@ -1,0 +1,2910 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 6000px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_197 {
+  width: 100%;
+  height: 829px;
+  background: url("v5_197.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_69 {
+  width: 100%;
+  height: 829px;
+  background: url("v1_69.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_70 {
+  width: 100%;
+  height: 829px;
+  background: rgba(39,2,42,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v1_76 {
+  width: 61px;
+  height: 61px;
+  background: url("v1_76.png") no-repeat center center;
+  background-size: cover; /* Esto asegura que la imagen ocupe todo el círculo sin deformarse */
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 112px;
+  border-radius: 50%; /* Esto hace que el contenedor sea circular */
+}
+
+.v1_77 {
+  width: 365px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 27px;
+  left: 188px;
+  font-family: Niconne;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_78 {
+  width: 100%;
+  height: 9px;
+  background: rgba(216,61,227,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 4px;
+  overflow: hidden;
+}
+.v1_79 {
+  width: 788px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 504px;
+  left: 492px;
+  font-family: Italianno;
+  font-weight: Regular;
+  font-size: 45px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v1_81 {
+  width: 50px;
+  height: 50px;
+  background: url("v1_81.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 1290px;
+  overflow: hidden;
+}
+/* Estilo de la imagen */
+.v1_81 {
+  width: 55px;
+  height: 55px;
+  background: url("v1_81.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 19px;
+  left: 1285px;
+  z-index: 1; /* Asegura que la imagen esté por encima del círculo */
+}
+
+/* Estilo del círculo */
+.circle-btn {
+  width: 50px; /* Tamaño del círculo */
+  height: 50px;
+  border-radius: 50%; /* Forma circular */
+  background-color: transparent; /* Fondo transparente */
+  border: 2px solid rgba(217, 61, 228, 1); /* Borde morado */
+  position: absolute;
+  top: 20.5px; /* Ajusta la posición para que la imagen quede encima */
+  left: 1288px; /* Ajusta la posición para alinear con la imagen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  z-index: 0; /* Asegura que el círculo esté debajo de la imagen */
+}
+
+a {
+  text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+.v1_82 {
+  width: 20px;
+  height: 19px;
+  background: url("v1_82.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 594px;
+  left: 423px;
+  overflow: hidden;
+}
+/* Botón v1_82 */
+.v1_82 {
+  width: 150px;
+  height: 50px;
+  background: transparent;
+  border: 2px solid rgba(217, 61, 228, 1);
+  border-radius: 20px;
+  position: absolute;
+  top: 594px;
+  left: 423px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  color: rgba(236, 138, 243, 1);
+}
+
+.v1_82:hover {
+  background-color: rgba(236, 138, 243, 0.2);
+  border-color: rgba(236, 138, 243, 1);
+}
+
+.github-text {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'PoetsenOne', sans-serif;
+  color: rgba(236, 138, 243, 1);
+}
+
+.github-logo {
+  width: 20px;
+  height: 20px;
+}
+
+.v1_83 {
+  width: 20px;
+  height: 19px;
+  background: rgba(236,137,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v1_84 {
+  width: 13px;
+  height: 12px;
+  background: url("v1_84.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 598px;
+  left: 188px;
+  overflow: hidden;
+}
+.v1_85 {
+  width: 13px;
+  height: 12px;
+  background: url("v1_85.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 2.5452206134796143px solid rgba(236,137,243,1);
+}
+.v1_86 {
+  width: 20px;
+  height: 19px;
+  background: url("v1_86.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 594px;
+  left: 587px;
+  overflow: hidden;
+}
+
+/* Botón v1_86 */
+.v1_86 {
+  width: 150px; /* Ancho del botón */
+  height: 50px; /* Altura del botón */
+  background: transparent; /* Fondo transparente */
+  border: 2px solid rgba(217, 61, 228, 1); /* Borde con el color solicitado */
+  border-radius: 20px; /* Bordes ovalados */
+  position: absolute; /* Ubicación absoluta */
+  top: 594px; /* Ubicación desde el borde superior */
+  left: 609px; /* Ubicación desde el borde izquierdo */
+  cursor: pointer; /* Cursor interactivo */
+  display: flex; /* Centra el contenido */
+  align-items: center; /* Alinea verticalmente */
+  justify-content: center; /* Alinea horizontalmente */
+  gap: 10px; /* Espaciado entre el logo y el texto */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Transiciones suaves */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+}
+
+.v1_86:hover {
+  background-color: rgba(236, 138, 243, 0.2); /* Fondo semitransparente */
+  border-color: rgba(236, 138, 243, 1); /* Borde visible */
+}
+
+/* Logo de LinkedIn */
+.linkedin-logo {
+  width: 20px; /* Tamaño del logo */
+  height: 20px; /* Tamaño del logo */
+}
+
+/* Texto de LinkedIn */
+.linkedin-text {
+  font-size: 16px; /* Tamaño del texto */
+  font-weight: bold; /* Negrita */
+  font-family: 'PoetsenOne', sans-serif; /* Fuente personalizada */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+}
+
+.v1_87 {
+  width: 20px;
+  height: 19px;
+  background: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 20px;
+}
+
+.v1_88 {
+  width: 9px;
+  height: 14px;
+  background: rgba(236,137,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 5px;
+}
+.v1_89 {
+  width: 20px;
+  height: 19px;
+  background: url("v1_89.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 593px;
+  left: 684px;
+  overflow: hidden;
+}
+/* Botón v1_89 */
+.v1_89 {
+  width: 150px; /* Ancho del botón */
+  height: 50px; /* Altura del botón */
+  background: transparent; /* Fondo transparente */
+  border: 2px solid rgba(217, 61, 228, 1); /* Borde con el color solicitado */
+  border-radius: 20px; /* Bordes ovalados */
+  position: absolute; /* Ajusta según sea necesario */
+  top: 594px; /* Posición según la referencia */
+  left: 795px; /* Posición según la referencia */
+  cursor: pointer; /* Cursor interactivo */
+  display: flex; /* Centra el contenido */
+  align-items: center; /* Alinea verticalmente */
+  justify-content: center; /* Alinea horizontalmente */
+  gap: 10px; /* Espaciado entre el logo y el texto */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Transiciones suaves */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+}
+
+.v1_89:hover {
+  background-color: rgba(236, 138, 243, 0.2); /* Fondo semitransparente */
+  border-color: rgba(236, 138, 243, 1); /* Borde visible */
+}
+
+/* Logo de Facebook */
+.facebook-logo {
+  width: 20px; /* Tamaño del logo */
+  height: 20px; /* Tamaño del logo */
+}
+
+/* Texto de Facebook */
+.facebook-text {
+  font-size: 16px; /* Tamaño del texto */
+  font-weight: bold; /* Negrita */
+  font-family: 'PoetsenOne', sans-serif; /* Fuente personalizada */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+}
+
+.v1_90 {
+  width: 20px;
+  height: 19px;
+  background: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 20px;
+}
+.v1_91 {
+  width: 15px;
+  height: 14px;
+  background: url("v1_91.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  overflow: hidden;
+}
+.v1_92 {
+  width: 9px;
+  height: 10px;
+  background: rgba(236,137,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 6px;
+}
+.v1_93 {
+  width: 3px;
+  height: 9px;
+  background: rgba(236,137,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 0px;
+}
+.v1_94 {
+  width: 3px;
+  height: 3px;
+  background: rgba(236,137,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v1_95 {
+  width: 21px;
+  height: 19px;
+  background: url("v1_95.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 594px;
+  left: 517px;
+  overflow: hidden;
+}
+.v1_96 {
+  width: 21px;
+  height: 19px;
+  background: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 22px;
+}
+/* Estilo para el botón Instagram (v1_95) */
+.v1_95 {
+  width: 150px; /* Ancho del botón */
+  height: 50px; /* Altura del botón */
+  background: transparent; /* Fondo transparente */
+  border: 2px solid rgba(217, 61, 228, 1); /* Borde con el color solicitado */
+  border-radius: 20px; /* Bordes ovalados */
+  cursor: pointer; /* Cursor interactivo */
+  display: flex; /* Centra el contenido */
+  align-items: center; /* Alinea verticalmente */
+  justify-content: center; /* Alinea horizontalmente */
+  gap: 10px; /* Espaciado entre el logo y el texto */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Transiciones suaves */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+  position: absolute; /* Se usa posición absoluta para colocar el botón en una ubicación específica */
+  top: 594px; /* Posición según la referencia */
+  left: 980px; /* Posición ajustada a la izquierda */
+}
+
+.v1_95:hover {
+  background-color: rgba(236, 138, 243, 0.2); /* Fondo semitransparente */
+  border-color: rgba(236, 138, 243, 1); /* Borde visible */
+}
+
+.v1_95 .instagram-logo {
+  width: 20px; /* Tamaño del logo */
+  height: 20px; /* Tamaño del logo */
+}
+
+.v1_95 .icon-text {
+  font-size: 16px; /* Tamaño del texto */
+  font-weight: bold; /* Negrita */
+  font-family: 'PoetsenOne', sans-serif; /* Fuente personalizada */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+}
+
+/* Estilo para el botón CV (v1_96) */
+.v1_96 {
+  width: 150px; /* Ancho del botón */
+  height: 50px; /* Altura del botón */
+  background: transparent; /* Fondo transparente */
+  border: 2px solid rgba(217, 61, 228, 1); /* Borde con el color solicitado */
+  border-radius: 20px; /* Bordes ovalados */
+  cursor: pointer; /* Cursor interactivo */
+  display: flex; /* Centra el contenido */
+  align-items: center; /* Alinea verticalmente */
+  justify-content: center; /* Alinea horizontalmente */
+  gap: 10px; /* Espaciado entre el logo y el texto */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Transiciones suaves */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+  position: absolute; /* Se usa posición absoluta para colocar el botón en una ubicación específica */
+  top: 594px; /* Posición según la referencia */
+  left: 1170px; /* Posición ajustada a la izquierda */
+}
+
+.v1_96:hover {
+  background-color: rgba(236, 138, 243, 0.2); /* Fondo semitransparente */
+  border-color: rgba(236, 138, 243, 1); /* Borde visible */
+}
+
+.v1_96 .cv-logo {
+  width: 20px; /* Tamaño del logo */
+  height: 20px; /* Tamaño del logo */
+}
+
+.v1_96 .icon-text {
+  font-size: 16px; /* Tamaño del texto */
+  font-weight: bold; /* Negrita */
+  font-family: 'PoetsenOne', sans-serif; /* Fuente personalizada */
+  color: rgba(236, 138, 243, 1); /* Color del texto */
+}
+.v1_97 {
+  width: 20px;
+  height: 17px;
+  background: rgba(236,137,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.v1_98 {
+  width: 788px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 443px;
+  left: 492px;
+  font-family: Belanosima;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_99 {
+  width: 841px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 402px;
+  left: 482px;
+  font-family: Belanosima;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_100 {
+  width: 513px;
+  color: rgba(236,137,243,1);
+  position: absolute;
+  top: 359px;
+  left: 677px;
+  font-family: Tilt Warp;
+  font-weight: Regular;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+}
+/* Estilo inicial para el texto */
+.v1_100 {
+  font-family: 'Tilt Warp', sans-serif; /* Fuente personalizada */
+  font-size: 19px; /* Tamaño de fuente */
+  color: rgba(236, 138, 243, 1); /* Color morado claro */
+  white-space: nowrap; /* Para que el texto no se envuelva */
+  border-right: 3px solid rgba(236, 138, 243, 1); /* Efecto de cursor */
+  padding-right: 5px; /* Espacio para el efecto de cursor */
+  overflow: hidden; /* Oculta el texto mientras no se escribe */
+  display: inline-block; /* Asegura que el texto no se expanda */
+}
+
+/* Animación para el efecto de escritura */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.v1_100 {
+  animation: typing 6s steps(30) infinite, blink-caret 0.70s step-end infinite;
+}
+
+/* Efecto de parpadeo del cursor */
+@keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.v1_101 {
+  width: 735px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 289px;
+  left: 588px;
+  font-family: Stoke;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_102 {
+  width: 786px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 234px;
+  left: 539px;
+  font-family: Zen Dots;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_103 {
+  width: 379px;
+  height: 370px;
+  background: url("v1_103.png") no-repeat center center; /* Centra la imagen */
+  background-size: cover; /* Ajusta la imagen para que ocupe el círculo sin deformarse */
+  opacity: 1;
+  position: absolute;
+  top: 217px;
+  left: 80px;
+  border-radius: 50%; /* Hace el contenedor circular */
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Añade sombra */
+}
+.v1_104 {
+  width: 220px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 30px;
+  left: 1180px;
+  font-family: 'Dosis', sans-serif; /* Fuente Dosis */
+  font-weight: normal; /* Normal weight */
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+
+
+.v5_196 {
+  width: 100%;
+  height: 679px;
+  background: url("v5_196.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 828px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_112 {
+  width: 100%;
+  height: 679px;
+  background: url("v1_112.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_113 {
+  width: 100%;
+  height: 679px;
+  background: rgba(131,59,136,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_114 {
+  width: 22px;
+  height: 21px;
+  background: url("v1_114.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  left: 818px;
+  overflow: hidden;
+}
+.v1_115 {
+  width: 22px;
+  height: 21px;
+  background: url("v1_115.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_116 {
+  width: 8px;
+  height: 7px;
+  background: rgba(255,228,97,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 14px;
+}
+.v1_116 {
+  width: 30px;
+  height: 30px;
+  background-color: yellow; /* Estrella amarilla */
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); /* Forma de estrella */
+  position: absolute; /* Posicionamiento absoluto */
+  top: 27px; /* Distancia desde la parte superior de la página */
+  left: 601px; /* Distancia desde el borde izquierdo de la página */
+  animation: shimmer 1.5s infinite; /* Efecto de brillo */
+}
+
+@keyframes shimmer {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 10px rgba(255, 255, 0, 0.7); /* Resplandor amarillento */
+  }
+  50% {
+    transform: scale(1.2);
+    box-shadow: 0 0 30px rgba(255, 255, 0, 1); /* Aumenta el resplandor */
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 10px rgba(255, 255, 0, 0.7); /* Resplandor normal */
+  }
+}
+
+
+.v1_117 {
+  width: 8px;
+  height: 7px;
+  background: rgba(255,228,97,1);
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  left: 14px;
+}
+.v1_117 {
+  width: 30px;
+  height: 30px;
+  background-color: yellow; /* Estrella amarilla */
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); /* Forma de estrella */
+  position: absolute; /* Posicionamiento absoluto */
+  top: 27px; /* Distancia desde la parte superior de la página */
+  left: 785px; /* Distancia desde el borde izquierdo de la página */
+  animation: shimmer 1.5s infinite; /* Efecto de brillo */
+}
+
+@keyframes shimmer {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 10px rgba(255, 255, 0, 0.7); /* Resplandor amarillento */
+  }
+  50% {
+    transform: scale(1.2);
+    box-shadow: 0 0 30px rgba(255, 255, 0, 1); /* Aumenta el resplandor */
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 10px rgba(255, 255, 0, 0.7); /* Resplandor normal */
+  }
+}
+
+.v1_118 {
+  width: 16px;
+  height: 15px;
+  background: rgba(255,228,97,1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+}
+.v1_119 {
+  width: 24px;
+  height: 23px;
+  background: url("v1_119.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 56px;
+  left: 818px;
+  overflow: hidden;
+}
+.v1_120 {
+  width: 24px;
+  height: 23px;
+  background: url("v1_120.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v1_130 {
+  width: 148px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 22px;
+  left: 646px;
+  font-family: Lilita One;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_131 {
+  width: 769px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 87px;
+  left: 112px;
+  font-family: Lobster Two;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_131 {
+  width: 769px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 87px;
+  left: 112px;
+  font-family: 'Lobster Two', cursive;
+  font-weight: regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  line-height: 1.6; /* Añadido para mayor espaciado entre las líneas */
+}
+
+.v1_131 p {
+  margin-bottom: 20px; /* Espacio entre los párrafos */
+}
+
+.v1_132 {
+  width: 384px;
+  height: 296px;
+  background: url("v1_132.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 148px;
+  left: 947px;
+  overflow: hidden;
+}
+.v1_133 {
+  width: 400px; /* Tamaño ligeramente más grande que la imagen */
+  height: 312px; /* Tamaño ligeramente más grande que la imagen */
+  border: 3px solid rgba(40, 2, 43, 1); /* Bordes morados */
+  background-color: transparent; /* Fondo transparente */
+  position: absolute;
+  top: 145px; /* Ajustado para que quede detrás de la imagen */
+  left: 942px; /* Ajustado para que quede detrás de la imagen */
+  z-index: 1; /* Asegura que esté detrás de la imagen */
+}
+
+.v1_132 {
+  width: 384px;
+  height: 296px;
+  background: url("v1_132.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 148px; /* Misma posición que antes */
+  left: 947px; /* Misma posición que antes */
+  z-index: 2; /* Asegura que esté encima del rectángulo */
+}
+
+/* Importar la fuente Racing Sans One */
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+
+.v1_134 {
+  display: inline-block;
+  width: 200px; /* Ancho del botón */
+  height: 50px; /* Altura del botón */
+  line-height: 50px; /* Alineación vertical del texto */
+  text-align: center; /* Alineación horizontal del texto */
+  font-family: 'Racing Sans One', sans-serif; /* Fuente Racing Sans One */
+  font-size: 18px; /* Tamaño de la fuente */
+  font-weight: bold;
+  font-style: italic; /* Texto inclinado */
+  color: rgba(236, 138, 243, 1); /* Texto en morado claro */
+  text-shadow: 0px 0px 2px rgba(67, 6, 72, 1), /* Bordes suaves */
+               1px 1px 2px rgba(67, 6, 72, 1); /* Bordes definidos */
+  border: none; /* Sin bordes adicionales */
+  border-radius: 25px; /* Bordes redondeados */
+  background-color: rgba(67, 6, 72, 1); /* Fondo morado oscuro */
+  position: absolute;
+  top: 570px; /* Ajusta según la ubicación deseada */
+  left: 615px; /* Ajusta según la ubicación deseada */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  transition: all 0.3s ease; /* Animación suave al interactuar */
+}
+
+.v1_134:hover {
+  background-color: rgba(236, 138, 243, 1); /* Fondo ligeramente más oscuro al pasar el cursor */
+}
+
+.v1_134:active {
+  background-color: rgba(236, 138, 243, 1); /* Fondo más oscuro al presionar */
+}
+
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v5_195 {
+  width: 100%;
+  height: 627px;
+  background: url("v5_195.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1506px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_140 {
+  width: 100%;
+  height: 627px;
+  background: rgba(39,2,42,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_142 {
+  width: 174px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 315px;
+  left: 633px;
+  font-family: Lemon;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_141 {
+  width: 132px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 24px;
+  left: 654px;
+  font-family: Lemon;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_168 {
+  width: 12.3%;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 123px;
+}
+
+.v1_169 {
+  width: 12.3%;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 330px;
+}
+
+.v1_170 {
+  width: 12.3%;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 534px;
+}
+.v1_171 {
+  width: 12.3%;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 737px;
+}
+
+.v1_172 {
+  width: 12.3%;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 940px;
+}
+
+.v1_173 {
+  width: 12.3%;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 1143px;
+}
+.v5_181 {
+  width: 64px;
+  color: rgba(228,54,42,1);
+  position: absolute;
+  top: 113px;
+  left: 175px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Font Awesome 5 Brands;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: center;
+}
+/* Importar Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.v5_181 {
+  width: 64px;
+  color: rgba(228, 54, 42, 1); /* Color característico de HTML5 */
+  position: absolute;
+  top: 113px; /* Posición superior */
+  left: 175px; /* Posición izquierda */
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Sombra para dar profundidad */
+  font-size: 85px; /* Tamaño del icono */
+  z-index: 9999; /* Asegura que el icono esté por encima de otros elementos */
+  opacity: 1; /* Totalmente visible */
+  text-align: center; /* Centrado del contenido */
+}
+
+
+.v5_183 {
+  width: 75px;
+  color: rgba(224,187,5,1);
+  position: absolute;
+  top: 113px;
+  left: 383px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Font Awesome 5 Brands;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: center;
+}
+/* Importar Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.v5_183 {
+  width: 75px;
+  color: rgba(224, 187, 5, 1); /* Color amarillo característico de JavaScript */
+  position: absolute;
+  top: 113px; /* Posición superior */
+  left: 383px; /* Posición izquierda */
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Sombra para dar profundidad */
+  font-family: 'Font Awesome 5 Brands'; /* Fuente de Font Awesome */
+  font-weight: Regular;
+  font-size: 85px; /* Tamaño del icono */
+  opacity: 1; /* Totalmente visible */
+  text-align: center; /* Centrado del contenido */
+}
+
+.v5_185 {
+  width: 107px;
+  color: rgba(5,62,138,1);
+  position: absolute;
+  top: 122px;
+  left: 570px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Font Awesome 5 Brands;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: center;
+}
+/* Importar Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.v5_185 {
+  width: 107px; /* Ajusta el tamaño del contorno si lo necesitas */
+  color: rgba(5, 62, 138, 1); /* Color del icono de PHP */
+  position: absolute;
+  top: 122px; /* Ubicación superior */
+  left: 570px; /* Ubicación izquierda */
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Sombra para dar profundidad */
+  font-family: 'Font Awesome 5 Brands'; /* Fuente de Font Awesome */
+  font-weight: Regular;
+  font-size: 85px; /* Tamaño del icono */
+  opacity: 1; /* Totalmente visible */
+  text-align: center; /* Centrado del contenido */
+}
+
+.v5_187 {
+  width: 107px;
+  color: rgba(81,86,94,1);
+  position: absolute;
+  top: 113px;
+  left: 775px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Font Awesome 5 Brands;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: center;
+}
+/* Importar Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.v5_187 {
+  width: 107px;
+  color: rgba(81, 86, 94, 1); /* Color del icono de Node.js */
+  position: absolute;
+  top: 113px; /* Ubicación superior */
+  left: 775px; /* Ubicación izquierda */
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Sombra para dar profundidad */
+  font-family: 'Font Awesome 5 Brands'; /* Fuente de Font Awesome */
+  font-weight: Regular;
+  font-size: 85px; /* Tamaño del icono */
+  opacity: 1; /* Totalmente visible */
+  text-align: center; /* Centrado del contenido */
+}
+
+.v5_189 {
+  width: 85px;
+  color: rgba(42,122,228,1);
+  position: absolute;
+  top: 113px;
+  left: 982px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Font Awesome 5 Brands;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: center;
+}
+/* Asegúrate de importar Font Awesome para que los iconos carguen correctamente */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.v5_189 {
+  width: 85px; /* Ajuste del tamaño del contorno */
+  color: rgba(42, 122, 228, 1); /* Color de React */
+  position: absolute;
+  top: 113px; /* Ubicación superior */
+  left: 982px; /* Ubicación izquierda */
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Sombra para dar profundidad */
+  font-family: 'Font Awesome 5 Brands'; /* Fuente de Font Awesome */
+  font-weight: Regular;
+  font-size: 85px; /* Tamaño del icono */
+  opacity: 1; /* Totalmente visible */
+  text-align: center; /* Centrado del contenido */
+}
+
+.v5_191 {
+  width: 52px;
+  height: 85px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 122px;
+  left: 1203px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+/* Asegúrate de importar Font Awesome para que los iconos carguen correctamente */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.v5_191 {
+  width: 52px; /* Ajuste del tamaño del contorno */
+  height: 85px; /* Altura del contorno */
+  background: transparent; /* Fondo transparente */
+  opacity: 1; /* Totalmente visible */
+  position: absolute;
+  top: 122px; /* Ubicación superior */
+  left: 1203px; /* Ubicación izquierda */
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Sombra para dar profundidad */
+  overflow: hidden; /* Oculta lo que se desborde */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.v5_191 i {
+  color: rgba(38, 38, 38, 1); /* Color del icono de CSS */
+  font-size: 85px; /* Tamaño del icono */
+  text-align: center; /* Centrado del contenido */
+}
+
+.v5_192 {
+  width: 54px;
+  height: 66px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 1px;
+}
+.v5_198 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 220px;
+  left: 148px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_199 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 220px;
+  left: 361px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_201 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 220px;
+  left: 564px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_203 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 216px;
+  left: 767px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_205 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 216px;
+  left: 965px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_207 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 216px;
+  left: 1168px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v12_32 {
+  width: 176px;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 388px;
+  left: 332px;
+}
+.v12_34 {
+  width: 176px;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 388px;
+  left: 535px;
+}
+.v12_36 {
+  width: 176px;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 388px;
+  left: 738px;
+}
+.v12_38 {
+  width: 176px;
+  height: 174px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 386px;
+  left: 941px;
+}
+.v12_40 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 512px;
+  left: 360px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v12_42 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 516px;
+  left: 564px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v12_44 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 516px;
+  left: 766px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v12_46 {
+  width: 119px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 520px;
+  left: 974px;
+  font-family: Lalezar;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_210 {
+  width: 78px;
+  height: 89px;
+  background: url("v5_210.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  left: 377px;
+  overflow: hidden;
+}
+.v10_19 {
+  width: 72px;
+  height: 106px;
+  background: url("v10_19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  left: 791px;
+  overflow: hidden;
+}
+.v12_28 {
+  width: 107px;
+  height: 123px;
+  background: url("v12_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  left: 975px;
+  overflow: hidden;
+}
+.v8_9 {
+  width: 76px;
+  height: 76px;
+  background: rgba(234,187,238,1);
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  left: 585px;
+  overflow: hidden;
+}
+.v8_10 {
+  width: 76px;
+  height: 76px;
+  background: url("v8_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v8_10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  font-size: 60px; /* Tamaño del ícono */
+  color: rgba(0, 0, 0, 1); /* Color negro */
+  top: 9px; /* Posición superior */
+  left: 1px; /* Posición izquierda */
+}
+
+.v8_11 {
+  width: 76px;
+  height: 76px;
+  background: url("v8_11.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v8_12 {
+  width: 57px;
+  height: 57px;
+  background: url("v8_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 10px;
+  overflow: hidden;
+}
+
+.v8_13 {
+  width: 57px;
+  height: 57px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v19_39 {
+  width: 100%;
+  height: 657px;
+  background: url("v19_39.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2133px;
+  left: 0px;
+  overflow: hidden;
+}
+.v19_38 {
+  width: 100%;
+  height: 657px;
+  background: rgba(131,59,136,0.8600000143051147);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v19_56 {
+  width: 140px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 529px;
+  left: 746px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v19_40 {
+  width: 368px;
+  height: 286px;
+  background: rgba(255,255,255,1);
+  padding: 16px 16px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 199px;
+  left: 327px;
+  overflow: hidden;
+}
+.v19_46 {
+  width: 190px;
+  height: 130px;
+  background: url("v19_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 78px;
+  left: 89px;
+  overflow: hidden;
+}
+.v19_40 {
+  width: 368px;
+  height: 286px;
+  background: rgba(255, 255, 255, 1); /* Fondo blanco */
+  padding: 16px 16px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 199px;
+  left: 327px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: center; /* Centra el contenido verticalmente */
+}
+
+.v19_46 {
+  width: 190px;
+  height: 130px;
+  background: url("v19_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain; /* Ajusta el tamaño de la imagen para que no se deforme */
+  opacity: 1;
+  position: absolute;
+}
+
+.v19_43 {
+  width: 368px;
+  height: 286px;
+  background: rgba(255,255,255,1);
+  padding: 16px 16px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 200px;
+  left: 737px;
+  overflow: hidden;
+}
+.v19_45 {
+  width: 705px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 97px;
+  left: 435px;
+  font-family: Lilita One;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v19_40,
+.v19_43 {
+  width: 368px;
+  height: 286px;
+  background: rgba(255, 255, 255, 1); /* Fondo blanco */
+  padding: 16px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  border-radius: 16px; /* Bordes redondeados */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.v19_40:hover,
+.v19_43:hover {
+  transform: scale(1.05); /* Aumenta el tamaño al pasar el ratón */
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3); /* Aumenta la sombra */
+}
+
+.v19_49 {
+  width: 265px;
+  height: 275px;
+  background: url("v19_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 204px;
+  left: 788px;
+  overflow: hidden;
+}
+
+.v19_43 {
+  width: 368px;
+  height: 286px;
+  background: rgba(255, 255, 255, 1); /* Fondo blanco */
+  padding: 16px 16px;
+  margin: 10px;
+  opacity: 1;
+  position: relative; /* Permite a los elementos dentro de posicionarse de forma absoluta */
+  top: 199px;
+  left: 737px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: center; /* Centra el contenido verticalmente */
+  z-index: 1; /* Asegura que el rectángulo esté por debajo */
+}
+
+.v19_49 {
+  width: 265px;
+  height: 275px;
+  background: url("v19_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain; /* Ajusta la imagen al tamaño del contenedor */
+  opacity: 1;
+  position: absolute;
+  top: 50%; /* Centra la imagen verticalmente */
+  left: 50%; /* Centra la imagen horizontalmente */
+  transform: translate(-50%, -50%); /* Ajusta la imagen para centrarla completamente */
+  z-index: 2; /* Asegura que la imagen esté por encima del rectángulo */
+}
+
+.v19_54 {
+  width: 304px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 500px;
+  left: 335px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 26px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v19_58 {
+  width: 130px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 529px;
+  left: 335px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v19_52 {
+  width: 280px;
+  color: rgba(67,5,71,1);
+  position: absolute;
+  top: 500px;
+  left: 746px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 26px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_10 {
+  width: 100%;
+  height: 2411px;
+  background: url("v22_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2789px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_9 {
+  width: 100%;
+  height: 100%;
+  background: rgba(39,2,42,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_14 {
+  width: 705px;
+  color: rgba(236,137,243,1);
+  position: absolute;
+  top: 44px;
+  left: 401px;
+  font-family: Lilita One;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_29 {
+  width: 368px;
+  height: 138px;
+  background: url("v22_29.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 794px;
+  left: 135px;
+  overflow: hidden;
+}
+.v22_30 {
+  width: 368px;
+  color: rgba(236,137,243,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_31 {
+  width: 368px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_32 {
+  width: 560px;
+  height: 51px;
+  background: url("v22_32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 87px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v22_13 {
+  width: 100%;
+  height: 715px;
+  background: url("v22_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5200px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_12 {
+  width: 100%;
+  height: 715px;
+  background: rgba(131,59,136,0.8199999928474426);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_17 {
+  width: 368px;
+  height: 112px;
+  background: url("v22_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 3083px;
+  left: 1050px;
+  overflow: hidden;
+}
+.v22_18 {
+  width: 368px;
+  color: rgba(236,137,243,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_19 {
+  width: 368px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_20 {
+  width: 560px;
+  height: 51px;
+  background: url("v22_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v22_38 {
+  width: 368px;
+  height: 112px;
+  background: url("v22_38.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 4133px;
+  left: 1050px;
+  overflow: hidden;
+}
+.v22_39 {
+  width: 368px;
+  color: rgba(236,137,243,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_40 {
+  width: 368px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_41 {
+  width: 560px;
+  height: 51px;
+  background: url("v22_41.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v22_47 {
+  width: 369px;
+  height: 138px;
+  background: url("v22_47.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 4703px;
+  left: 134px;
+  overflow: hidden;
+}
+.v22_48 {
+  width: 369px;
+  color: rgba(236,137,243,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_49 {
+  width: 369px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_50 {
+  width: 560px;
+  height: 51px;
+  background: url("v22_50.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 87px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v24_20 {
+  width: 661px;
+  height: 664px;
+  background: url("v24_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 64px 0px;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 5224px;
+  left: 671px;
+  overflow: hidden;
+}
+
+/* Botón v24_22 */
+.v24_22 {
+  display: inline-block; /* Hace que el botón se comporte como un bloque en línea */
+  width: 200px; /* Ancho del botón */
+  height: 50px; /* Altura del botón */
+  line-height: 35px; /* Alineación vertical del texto */
+  text-align: center; /* Alineación horizontal del texto */
+  font-family: 'Raleway', sans-serif; /* Fuente Raleway */
+  font-size: 20px; /* Tamaño de la fuente más grande */
+  font-weight: bold; /* Texto en negrita */
+  color: white; /* Texto blanco */
+  border: none; /* Sin bordes adicionales */
+  border-radius: 25px; /* Bordes redondeados */
+  background-color: #430648; /* Fondo morado */
+  position: absolute;
+  top: 591PX; /* Ajusta según la ubicación deseada */
+  left: 1px; /* Ajusta según la ubicación deseada */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  transition: all 0.3s ease; /* Animación suave al interactuar */
+}
+
+.v24_22:hover {
+  background-color: rgba(236, 138, 243, 1); /* Fondo ligeramente más claro al pasar el cursor */
+}
+
+.v24_22:active {
+  background-color: rgba(67, 6, 72, 1); /* Fondo más oscuro al presionar */
+}
+
+.v24_23 {
+  width: 656px;
+  height: 88px;
+  background: url("v24_23.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_24 {
+  width: 159px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_25 {
+  width: 656px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 90px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 16.5px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_25 {
+  width: 656px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: bold; /* Cambiado a bold para negrita */
+  font-size: 15.5px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v24_26 {
+  width: 661px;
+  height: 397px;
+  background: url("v24_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 120px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_27 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_27 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  left: 0px;
+  overflow: hidden;
+  border-radius: 5px; /* Valor ajustado para esquinas ovaladas */
+}
+
+.v24_28 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  padding: 8px 12px;
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v24_29 {
+  width: 661px;
+  height: 40px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_30 {
+  width: 637px;
+  height: 40px;
+  background: rgba(255,255,255,1);
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 12px;
+  overflow: hidden;
+}
+.v24_31 {
+  width: 637px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_32 {
+  width: 637px;
+  height: 20px;
+  background: rgba(255,255,255,1);
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_33 {
+  width: 99px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_34 {
+  width: 1px;
+  height: 20px;
+  background: rgba(200,200,200,1);
+  position: absolute;
+  top: 0px;
+  left: 103px;
+  overflow: hidden;
+}
+.v24_35 {
+  width: 661px;
+  height: 1px;
+  background: rgba(200,200,200,1);
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_36 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_36 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 0px;
+  overflow: hidden;
+  border-radius: 5px; /* Valor ajustado para esquinas ovaladas */
+}
+
+.v24_37 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  padding: 8px 12px;
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v24_38 {
+  width: 661px;
+  height: 40px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_39 {
+  width: 637px;
+  height: 40px;
+  background: rgba(255,255,255,1);
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 12px;
+  overflow: hidden;
+}
+.v24_40 {
+  width: 637px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_41 {
+  width: 133px;
+  height: 20px;
+  background: url("v24_41.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_42 {
+  width: 130px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_43 {
+  width: 1px;
+  height: 20px;
+  background: rgba(42,122,228,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 132px;
+  overflow: hidden;
+}
+.v24_44 {
+  width: 661px;
+  height: 2px;
+  background: rgba(42,122,228,1);
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  left: 0px;
+  overflow: hidden;
+}
+/* Establecer fuente global para todo el formulario */
+body {
+  font-family: 'Raleway', sans-serif; /* Aplica la fuente Raleway globalmente */
+}
+
+/* Efecto de hover para todos los contenedores */
+.v24_27, .v24_36, .v24_45, .v24_50 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255, 255, 255, 1);
+  margin: 10px 0;
+  padding: 0 10px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: row; /* Los elementos estarán en fila */
+  justify-content: flex-start; /* Mantiene todo alineado al inicio */
+  align-items: center;
+  position: absolute;
+  z-index: 10; /* Asegura que esté encima de otros elementos */
+  pointer-events: all; /* Permite la interacción con el contenedor */
+  font-family: 'Raleway', sans-serif; /* Fuente Raleway aplicada aquí */
+  transition: all 0.3s ease; /* Transición suave para cambios */
+}
+
+/* Efecto hover */
+.v24_27:hover, .v24_36:hover, .v24_45:hover, .v24_50:hover {
+  transform: translateY(-5px); /* Eleva el contenedor */
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* Aumenta la sombra para dar el efecto de profundidad */
+  background: rgba(245, 245, 245, 1); /* Color más suave de fondo */
+}
+
+/* Contenedor específico para "Nombre" */
+.v24_27 {
+  top: 170px;
+  left: 0px;
+}
+
+/* Contenedor específico para "E-mail" */
+.v24_36 {
+  top: 256px;
+  left: 0px;
+}
+
+/* Contenedor específico para "Asunto" */
+.v24_45 {
+  top: 341px;
+  left: 0px;
+}
+
+/* Contenedor específico para "Mensaje" */
+.v24_50 {
+  top: 425px;
+  left: 0px;
+  height: 133px;
+}
+
+/* Estilos para los labels */
+.v24_label {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(39, 2, 42, 1);
+  margin-right: 5px; /* Reducido para acercar más el label al campo de texto */
+  width: 100px; /* Mantengo el tamaño para que los labels no se desborden */
+  font-family: 'Raleway', sans-serif; /* Fuente Raleway aplicada aquí */
+}
+
+/* Estilos para los inputs y textarea */
+.v24_input, .v24_textarea {
+  width: 90%; /* Reducido para acercar más los elementos, aún editable */
+  min-width: 150px; /* Establece un ancho mínimo para los inputs */
+  max-width: 100%; /* Permite que el ancho máximo sea 100% del contenedor */
+  padding: 8px; /* Ajustado para reducir el tamaño */
+  font-size: 16px;
+  border: 1px solid rgba(200, 200, 200, 1);
+  border-radius: 5px;
+  box-sizing: border-box;
+  resize: horizontal; /* Permite cambiar el tamaño horizontalmente */
+  transition: all 0.3s ease; /* Transición suave para el borde y sombra */
+  pointer-events: all; /* Permite la interacción con el campo */
+  font-family: 'Raleway', sans-serif; /* Fuente Raleway aplicada aquí */
+}
+
+/* Efecto de enfoque en los campos */
+.v24_input:focus, .v24_textarea:focus {
+  outline: none;
+  border-color: rgba(39, 2, 42, 1); /* Color de borde cuando se selecciona */
+  box-shadow: 0px 0px 5px rgba(39, 2, 42, 0.5); /* Sombra alrededor del campo */
+}
+
+/* Efecto de escritura: cambia el color de borde y sombra cuando se escribe */
+.v24_input:valid, .v24_textarea:valid {
+  border-color: rgba(39, 2, 42, 1); /* Borde más oscuro cuando hay texto válido */
+  box-shadow: 0px 0px 5px rgba(39, 2, 42, 0.5); /* Sombra alrededor */
+}
+
+.v24_input::placeholder, .v24_textarea::placeholder {
+  color: rgba(39, 2, 42, 0.6); /* Color del placeholder */
+}
+
+.v24_textarea {
+  height: 110px;
+  resize: vertical; /* Permite cambiar el tamaño verticalmente en el caso del textarea */
+}
+/* Estilos para el botón v24_22 */
+.v24_22 {
+  background-color: #800080; /* Color morado */
+  color: white; /* Texto blanco */
+  font-size: 14px; /* Tamaño de la fuente más pequeño */
+  font-weight: bold; /* Letra en negrita */
+  padding: 8px 1px; /* Relleno más pequeño */
+  border: none; /* Sin borde */
+  border-radius: 8px; /* Bordes redondeados */
+  text-align: center; /* Centra el texto dentro del botón */
+  cursor: pointer; /* Cambia el cursor a mano cuando pasa sobre el botón */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Transición suave */
+  display: inline-block; /* Hace que el contenedor se comporte como un bloque en línea */
+}
+
+/* Efecto cuando el mouse pasa sobre el botón */
+.v24_22:hover {
+  background-color: #6a006a; /* Color morado más oscuro */
+  transform: translateY(-3px); /* Eleva el botón ligeramente */
+}
+
+/* Efecto cuando el botón es presionado */
+.v24_22:focus {
+  outline: none; /* Elimina el contorno */
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2); /* Sombra cuando está enfocado */
+}
+
+.v24_45 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 341px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_45 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 341px;
+  left: 0px;
+  overflow: hidden;
+  border-radius: 5px; /* Valor ajustado para esquinas ovaladas */
+}
+
+.v24_46 {
+  width: 661px;
+  height: 56px;
+  background: rgba(255,255,255,1);
+  padding: 8px 12px;
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v24_47 {
+  width: 661px;
+  height: 20px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_48 {
+  width: 304px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 0px;
+  left: 12px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_49 {
+  width: 661px;
+  height: 1px;
+  background: rgba(200,200,200,1);
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_50 {
+  width: 661px;
+  height: 133px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 425px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v24_50 {
+  width: 661px;
+  height: 133px;
+  background: rgba(255,255,255,1);
+  margin: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 425px;
+  left: 0px;
+  overflow: hidden;
+  border-radius: 5px; /* Mitad de la altura para esquinas ovaladas */
+}
+
+.v24_51 {
+  width: 661px;
+  height: 133px;
+  background: rgba(255,255,255,1);
+  padding: 8px 12px;
+  margin: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v24_52 {
+  width: 661px;
+  height: 20px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_53 {
+  width: 304px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 0px;
+  left: 12px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_54 {
+  width: 661px;
+  height: 1px;
+  background: rgba(200,200,200,1);
+  opacity: 1;
+  position: absolute;
+  top: 132px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v24_69 {
+  width: 512px;
+  height: 512px;
+  background: url("v24_69.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5288px;
+  left: 85px;
+  overflow: hidden;
+}
+.v24_71 {
+  width: 230px;
+  color: rgba(39,2,42,1);
+  position: absolute;
+  top: 5939px;
+  left: 605px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
+.v24_71 {
+  width: 230px;
+  color: rgba(39, 2, 42, 1);
+  position: absolute;
+  top: 5939px;
+  left: 605px;
+  font-family: 'Raleway', sans-serif; /* Asegúrate de usar el formato correcto */
+  font-weight: 500; /* "Medium" en CSS corresponde al valor numérico 500 */
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor-imagen {
+  width: 50vw; /* Ajuste dinámico, ocupa el 50% del ancho de la ventana */
+  height: 50vh; /* Ajuste dinámico, ocupa el 30% del alto de la ventana */
+  background-color: white;
+  position: absolute; /* Posición relativa a la ventana */
+  top: 410vh; /* Se puede modificar para ajustar la ubicación vertical */
+  left: 5vw; /* Se puede modificar para ajustar la ubicación horizontal */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px; /* Opcional: agrega bordes redondeados */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra opcional para mayor estilo */
+}
+
+.fotoEncriptador {
+  width: 90%; /* La imagen ocupa el 80% del ancho del contenedor */
+  height: auto;
+  object-fit: contain; /* Asegura que la imagen se ajuste sin distorsionarse */
+}
+
+.contenedor-imagen-1 {
+  width: 50vw; /* Ajuste dinámico, ocupa el 50% del ancho de la ventana */
+  height: 50vh; /* Ajuste dinámico, ocupa el 30% del alto de la ventana */
+  background-color: white;
+  position: absolute; /* Posición relativa a la ventana */
+  top: 551vh; /* Se puede modificar para ajustar la ubicación vertical */
+  left: 5vw; /* Se puede modificar para ajustar la ubicación horizontal */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px; /* Opcional: agrega bordes redondeados */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra opcional para mayor estilo */
+}
+
+.fotoEncriptador1 {
+  width: 90%; /* La imagen ocupa el 80% del ancho del contenedor */
+  height: auto;
+  object-fit: contain; /* Asegura que la imagen se ajuste sin distorsionarse */
+}
+
+.contenedor-imagen-listado {
+  width: 50vw; /* Ancho inicial editable (60% del ancho de la ventana) */
+  height: 50vh; /* Alto inicial editable (35% del alto de la ventana) */
+  background-color: rgba(236,137,243,1);
+  position: absolute; /* Posición ajustable relativa a la ventana */
+  top: 480vh; /* Ajusta la posición vertical aquí */
+  left: 42vw; /* Ajusta la posición horizontal aquí */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para mayor estética */
+}
+
+.listado1 {
+  width: 62%; /* La imagen ocupa el 90% del ancho del contenedor */
+  height: auto;
+  object-fit: contain; /* Ajusta la imagen sin distorsionarla */
+}
+
+.contenedor-imagen-listado-1 {
+  width: 50vw; /* Ancho inicial editable */
+  height: 50vh; /* Alto inicial editable */
+  background-color: rgba(236,137,243,1);
+  position: absolute; /* Posición ajustable */
+  top: 630vh; /* Posición vertical inicial */
+  left: 42vw; /* Posición horizontal inicial */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para mejor estética */
+}
+
+.listado {
+  width: 62%; /* Tamaño dinámico de la imagen */
+  height: auto; /* Mantiene las proporciones */
+  object-fit: contain; /* Ajusta la imagen sin distorsión */
+}
+
+.buttons-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 90px;
+}
+
+.btn-repositorio {
+  border: 3px solid rgba(236,137,243,1); /* Morado claro */
+  background-color: transparent;
+  color: rgba(236,137,243,1); /* Morado claro */
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-ver-demo {
+  border: none;
+  background-color: rgba(236,137,243,1); /* Morado claro */
+  color: #6a006a;
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-repositorio:hover {
+  background-color: #F8F0FA; /* Morado muy claro al pasar el mouse */
+}
+
+.btn-ver-demo:hover {
+  background-color: #C1A3C8; /* Morado más oscuro al pasar el mouse */
+}
+
+.buttons-container-1 {
+  display: flex;
+  gap: 10px;
+  margin-top: 90px;
+}
+
+.btn-repositorio-1 {
+  display: inline-block;
+  text-decoration: none;
+  border: 3px solid rgba(236,137,243,1); /* Morado claro */
+  background-color: transparent;
+  color: rgba(236,137,243,1); /* Morado claro */
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-ver-demo-1 {
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  background-color: rgba(236,137,243,1); /* Morado claro */
+  color: #6a006a;
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-repositorio-1:hover {
+  background-color: #F8F0FA; /* Morado muy claro al pasar el mouse */
+}
+
+.btn-ver-demo-1:hover {
+  background-color: #C1A3C8; /* Morado más oscuro al pasar el mouse */
+}
+
+.buttons-container-2 {
+  display: flex;
+  gap: 10px;
+  margin-top: 65px;
+}
+
+.btn-repositorio-2 {
+  display: inline-block;
+  text-decoration: none;
+  border: 3px solid rgba(236,137,243,1); /* Morado claro */
+  background-color: transparent;
+  color: rgba(236,137,243,1); /* Morado claro */
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-ver-demo-2 {
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  background-color: rgba(236,137,243,1); /* Morado claro */
+  color: #6a006a;
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-repositorio-2:hover {
+  background-color: #F8F0FA; /* Morado muy claro al pasar el mouse */
+}
+
+.btn-ver-demo-2:hover {
+  background-color: #C1A3C8; /* Morado más oscuro al pasar el mouse */
+}
+
+.buttons-container-3 {
+  display: flex;
+  gap: 10px;
+  margin-top: 65px;
+}
+
+.btn-repositorio-3 {
+  display: inline-block;
+  text-decoration: none;
+  border: 3px solid rgba(236,137,243,1); /* Morado claro */
+  background-color: transparent;
+  color: rgba(236,137,243,1); /* Morado claro */
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-ver-demo-3 {
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  background-color: rgba(236,137,243,1); /* Morado claro */
+  color: #6a006a;
+  font-family: Arial, sans-serif; /* Cambiable */
+  font-size: 16px; /* Tamaño editable */
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-repositorio-3:hover {
+  background-color: #F8F0FA; /* Morado muy claro al pasar el mouse */
+}
+
+.btn-ver-demo-3:hover {
+  background-color: #C1A3C8; /* Morado más oscuro al pasar el mouse */
+}
